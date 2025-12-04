@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/00e08ccd-b30d-458d-9434-15970845cf40
+**URL**: https://podium-de-concours.vercel.app/https://podium-de-concours.vercel.app/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/00e08ccd-b30d-458d-9434-15970845cf40) and start prompting.
+Simply visit the [Lovable Project](https://podium-de-concours.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
