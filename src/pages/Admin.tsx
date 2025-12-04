@@ -25,7 +25,7 @@ export default function Admin() {
       <>
         <Helmet>
           <title>Admin Login - LivePodium</title>
-          <meta name="description" content="Admin login for LivePodium hackathon leaderboard." />
+          <meta name="description" content="Admin login for Podium de concours leaderboard." />
         </Helmet>
 
         <div className="min-h-screen flex flex-col">
@@ -54,7 +54,7 @@ export default function Admin() {
     return (
       <>
         <Helmet>
-          <title>Access Denied - LivePodium</title>
+          <title>Access Denied - Podium</title>
         </Helmet>
 
         <div className="min-h-screen flex flex-col">
@@ -90,7 +90,7 @@ export default function Admin() {
   return (
     <>
       <Helmet>
-        <title>Admin Dashboard - LivePodium</title>
+        <title>Admin Dashboard - Podium</title>
         <meta name="description" content="Manage teams and scores for the LivePodium hackathon leaderboard." />
       </Helmet>
 

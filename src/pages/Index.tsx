@@ -18,7 +18,7 @@ export default function Index() {
   return (
     <>
       <Helmet>
-        <title>LivePodium - Real-time Hackathon Leaderboard</title>
+        <title>LivePodium - Podium de concours – BDE MIAGE Paris Cité</title>
         <meta
           name="description"
           content="Track team rankings, scores, and achievements in real-time during hackathon competitions."
@@ -40,7 +40,7 @@ export default function Index() {
                 Live Leaderboard
               </h1>
               <p className="text-muted-foreground text-lg animate-fade-in" style={{ animationDelay: '0.1s' }}>
-                Real-time rankings updated as teams score
+                Podium de concours – BDE MIAGE Paris Cité
               </p>
             </section>
 
@@ -68,7 +68,7 @@ export default function Index() {
 
         <footer className="border-t border-border py-4">
           <div className="container text-center text-sm text-muted-foreground">
-            <p>LivePodium • Hackathon Competition Leaderboard</p>
+            <p>Podium de concours – BDE MIAGE Paris Cité</p>
           </div>
         </footer>
 
